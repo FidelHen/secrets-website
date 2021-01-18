@@ -1,4 +1,4 @@
 # Secrets website #
-Learn about authentication using this simple wesbite.
+Learn about authentication using this simple website.
 ## Authentication levels ##
-1. Plain email and password
+1. Storing password in plain text
