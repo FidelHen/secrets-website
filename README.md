@@ -4,3 +4,4 @@ Learn about authentication using this simple website.
 1. Storing password in plain text
 2. Encrypting passwords w/ mongoose-encryption.js
 3. Hash password w/ MD5
+4. Salt & Hash password using bcrypt
