@@ -5,3 +5,4 @@ Learn about authentication using this simple website.
 2. Encrypting passwords w/ mongoose-encryption.js
 3. Hash password w/ MD5
 4. Salt & Hash password using bcrypt
+5. Authenticate using cookies & sessions w/ passport.js
